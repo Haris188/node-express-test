@@ -1,3 +1,1 @@
-FROM ubuntu:latest
-
-RUN echo "Hello, Docker!"
+FROM hello-world
